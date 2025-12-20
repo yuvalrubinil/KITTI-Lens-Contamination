@@ -1,4 +1,0 @@
-mask.png
-gen_texture_raw.png
-dirty_output.png
-old_ver
