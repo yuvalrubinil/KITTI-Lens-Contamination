@@ -2,7 +2,7 @@
 https://arxiv.org/abs/2511.09740  
 
 Showed that improper data splitting leads to over-optimistic results.  
-Teaches you how to shuffle your KITTI data without "leaking" info between train/test sets.
+Teaches you how to shuffle the KITTI data without "leaking" info between train/test sets.
 
 
 
@@ -19,3 +19,4 @@ https://www.mdpi.com/2078-2489/15/3/134
 
 Offers architecture performance and dataset use.  
 Provides baseline for training an object detector on contaminated lenses
+
