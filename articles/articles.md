@@ -11,6 +11,7 @@ https://www.mdpi.com/2076-3417/15/5/2690
 
 mAP for small objects dropped by ~90%.  
 Predicts the mAP drop you will see in your results when soiling is applied.
+Blurring is more confusing the model the partial hiding.
 
 
 
@@ -19,4 +20,5 @@ https://www.mdpi.com/2078-2489/15/3/134
 
 Offers architecture performance and dataset use.  
 Provides baseline for training an object detector on contaminated lenses
+
 
